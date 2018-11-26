@@ -24,7 +24,7 @@ var x=Math.floor((Math.random()*3)+ 1);
 var xxx=null;
 if(x=="1"){xxx="2018/11/12-manfaat-yang-bisa-di-dapat-dari.html"}
 if(x=="2"){xxx="2018/11/black-garlic-manfaat-dan-khasiat-untuk.html"}
-if(x=="3"){xxx="2018/11/wortel-sayuran-dengan-sejuta-manfaat.html"}a_to_ve[i].href="https://hidup-sehat-dan-alami.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"n";}}
+if(x=="3"){xxx="2018/11/wortel-sayuran-dengan-sejuta-manfaat.html"}a_to_ve[i].href="https://enkripsi-link-generator.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
